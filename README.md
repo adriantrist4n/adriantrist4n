@@ -11,7 +11,7 @@ Soy un estudiante apasionado de Desarrollo de Aplicaciones Multiplataforma, inme
  <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Contáctame  ....</summary>
 <div>
   <samp>
-    <h2 align="center">puedes contactarme en:</h2>
+    <h2 align="center">Puedes contactarme en:</h2>
     <p align="center">
       <br/>
       <a href="" target="blank"><img align="center"
@@ -36,14 +36,14 @@ Soy un estudiante apasionado de Desarrollo de Aplicaciones Multiplataforma, inme
 
 <!-- Technologies -->
 <details>
- <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Lenguajes ....</summary>
+ <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Skills ....</summary>
  <div>
  <samp>
 <p align="center">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" style="vertical-align:top; margin:4px">
-</p> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,git,kotlin,html,css,py,mysql" />
+  </a>
+</p>
  </samp> 
  </div>
  </details>
