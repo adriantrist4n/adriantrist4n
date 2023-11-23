@@ -1,32 +1,31 @@
-
-
-
-
-
+# Hola!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
+<br/>
+Soy un estudiante apasionado de Desarrollo de Aplicaciones Multiplataforma, inmerso en el emocionante mundo de la programación y el diseño de software. Mi formación en DAM me ha proporcionado una sólida base en lenguajes de programación como Java y Kotlin, así como en el desarrollo de aplicaciones para dispositivos móviles y otros entornos.<br/>
+<br/>
+<p align="center">
+<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
 
 <!-- contact me -->
 <details>
- <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Contact me ....</summary>
+ <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Contáctame  ....</summary>
 <div>
   <samp>
-    <h2 align="center">you can reach me by:</h2>
+    <h2 align="center">puedes contactarme en:</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/kajal-k-a217511ba/" target="blank"><img align="center"
+      <a href="" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://fb.com/kajalkumari23" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="mailto:kajalkumari2303@gmail.com" target="blank"><img align="center"
+      <a href="mailto:xadriantristanx@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
   <p align="center">
-      <a href="https://instagram.com/hiii.kajal" target="blank"><img align="center"
+      <a href="" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://twitter.com/__kajal___" target="blank"><img align="center"
+      <a href="" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
       <br>
@@ -37,7 +36,7 @@
 
 <!-- Technologies -->
 <details>
- <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Language and Tools ....</summary>
+ <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Lenguajes ....</summary>
  <div>
  <samp>
 <p align="center">
