@@ -6,9 +6,22 @@ Soy un estudiante apasionado de Desarrollo de Aplicaciones Multiplataforma, inme
 <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 
+<br/>
+
+<div>
+  <samp>
+    <h2 align="center">Skills</h2>
+    <p align="center">
+      <br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,git,kotlin,html,css,py,mysql" />
+  </a>
+</p>
+ </samp> 
+ </div>
+
 <!-- contact me -->
-<details>
- <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Contáctame  ....</summary>
 <div>
   <samp>
     <h2 align="center">Puedes contactarme en:</h2>
@@ -32,18 +45,8 @@ Soy un estudiante apasionado de Desarrollo de Aplicaciones Multiplataforma, inme
     </p>
   </samp>
 </div>
-</details>
 
 <!-- Technologies -->
-<details>
- <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Skills ....</summary>
- <div>
- <samp>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,git,kotlin,html,css,py,mysql" />
-  </a>
-</p>
- </samp> 
- </div>
- </details>
+
+
+ 
